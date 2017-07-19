@@ -1,5 +1,9 @@
 #
 # Generated include files
 #
+<<<<<<< HEAD
+=======
+net_names.h
+>>>>>>> 26e3b74fe (UBUNTU: SAUCE: apparmor: add base infastructure for socket mediation)
 capability_names.h
 rlim_names.h
